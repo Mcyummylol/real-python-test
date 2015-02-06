@@ -1,1 +1,0 @@
-Hello! this is a test project on a learning curve.
